@@ -6,7 +6,7 @@ Manual to perform good practices when looking for archaic segments using the sta
 
 We can use demes [Demes Github](https://popsim-consortium.github.io/demes-spec-docs/main/introduction.html) to visualise the demographic model of interest as follow:
 ````
-demesdraw tubes --log-time model_B.yaml model_B_nlog.svg
+demesdraw tubes --log-time model_A.yaml model_A_nlog.svg
 ````
 
 # Simulations
