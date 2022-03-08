@@ -1,0 +1,65 @@
+description: Basic demographic archaic introgression model.
+time_units: years
+generation_time: 29
+
+demes:
+- name: ancestral
+  description: Equilibrium/root population
+  epochs:
+  - {end_time: 550, start_size: 7300}
+- name: Archaic
+  ancestors: [ancestral]
+  epochs:
+  - {end_time: 350, start_size: 3000.0}
+- name: NeaA
+  ancestors: [Archaic]
+  epochs:
+  - {end_time: 130, start_size: 1000.0}
+- name: Nea2
+  ancestors: [NeaA]
+  epochs:
+  - {end_time: 35, start_size: 1000.0}
+- name: Nea1A
+  ancestors: [NeaA]
+  epochs:
+  - {end_time: 90, start_size: 1000.0}
+- name: Nea1
+  ancestors: [Nea1A]
+  epochs:
+  - {end_time: 35, start_size: 1000.0}
+- name: intN
+  ancestors: [Nea1A]
+  epochs:
+  - {end_time: 35, start_size: 1000.0}
+- name: AMH
+  description: Anatomically modern humans
+  ancestors: [ancestral]
+  epochs:
+  - {end_time: 65, start_size: 10000.0}
+- name: OOA
+  description: Bottleneck out-of-Africa population
+  ancestors: [AMH]
+  epochs:
+  - {end_time: 56, start_size: 2200.0}
+- name: Eurasia
+  ancestors: [OOA]
+  epochs:
+  - {end_time: 45, start_size: 5000.0}
+- name: Pop1
+  ancestors: [Eurasia]
+  epochs:
+  - {end_time: 0, start_size: 5000.0}
+- name: Pop2
+  ancestors: [Eurasia]
+  epochs:
+  - {end_time: 0, start_size: 5000.0}
+- name: AFR
+  ancestors: [AMH]
+  epochs:
+  - {end_time: 0, start_size: 10000.0}
+
+pulses:
+- source: intN
+  dest: Eurasia
+  time: 55
+  proportion: 0.0225
