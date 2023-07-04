@@ -9,7 +9,6 @@ from numpy.random import randint
 
 SEED=range(1, 12)
 MODEL = config['models']
-OPATH = config['pathout']
 EPATH = onfig['envs']
 
 #For randome seeds: randint(0, 999999999, 10)
@@ -35,7 +34,7 @@ rule slim:
         "--model {wildcards.model}_{wildcards.seed} "
         "--seed {wildcards.seed} 2> {log}"
 
-rule ttrack:
+rule track:
     input:
         vcf="{model}_{seed}/results/output.vcf.gz",
         trees="{model}_{seed}/results/{model}_{seed}_output_ts.trees",
