@@ -57,10 +57,8 @@ rule f4_ratio:
     output:
         "{model}_{seed}/results/f4_results_ratio.png"
     log: '{model}_{seed}/logs/f4.log'
-    params:
-        ipath="/maps/projects/racimolab/people/gsd818/arcIntro/scripts"
     shell:
-        "Rscript {params.ipath}/00.calculate_f4_ratio.r "
+        "Rscript scripts/00.calculate_f4_ratio.r "
         "--trees {input.trees} "
         "--model {wildcards.model}_{wildcards.seed} "
         "-o {output} 2> {log}"
