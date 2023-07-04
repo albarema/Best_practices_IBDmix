@@ -24,8 +24,6 @@ rule slim:
         vcf=protected("{model}_{seed}/results/output.vcf.gz"),
         trees=protected("{model}_{seed}/results/{model}_{seed}_output_ts.trees"),
         node=protected("{model}_{seed}/results/nodes.tsv")
-    params:
-        ipath=OPATH,
     conda: EPATH
     log: '{model}_{seed}/logs/slim.log'
     shell:
