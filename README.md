@@ -24,9 +24,9 @@ Check the toy config.yaml file. You will need to specify:
 - your output directory ('path/2/outputs')
 
 ### Step 2: run simulations and get tree sequences 
-Step 2, uses the Snakefile named "rules/00.gen_simuls_step1.smk" which generates the simulation outputs. The pipeline includes a few jobs to generate the simulations for which we chose the package "slendr" [Slendr Manual](https://www.slendr.net/articles/vignette-05-tree-sequences.html). In our example, we use the simulator "slim" but similarly you can use "msprime". 
+Step 2, uses the Snakefile named "rules/00.gen_simuls_step1.smk" which generates the simulation outputs. The pipeline includes a few jobs to generate the simulations for which we chose the package "slendr" [Slendr Manual](https://www.slendr.net/articles/vignette-05-tree-sequences.html). In our example, we use the simulator "slim" but similarly you can use "msprime". We will also be specified a seed to do replicates. 
 
-You can run the snakefile as follows:
+You can run the Snakefile as follows:
 ````
 snakemake --snakefile rules/00.gen_simuls_step1.smk --cores xx
 ````
