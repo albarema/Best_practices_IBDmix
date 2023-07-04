@@ -1,0 +1,17 @@
+
+name: slendr
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - numpy
+  - tskit
+  - tsinfer
+  - tqdm
+  - matplotlib
+  - pyslim
+  - ipywidgets
+prefix: /projects/racimolab/people/gsd818/.conda/envs/slendr
