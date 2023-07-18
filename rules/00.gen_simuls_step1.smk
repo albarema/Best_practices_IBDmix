@@ -29,6 +29,7 @@ rule slim:
     shell:
         "Rscript scripts/00.introgression.R "
         "--ne 5000 "
+        "--length 200e6 "
         "--time {wildcards.time}e3 "
         "--model {wildcards.model}_{wildcards.seed}_{wildcards.time}ky "
         "--seed {wildcards.seed} 2> {log}"
