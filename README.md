@@ -18,7 +18,7 @@ We run the simulations using the Snakemake workflow management system. Please, d
 ``` https://snakemake.readthedocs.io/en/stable/getting_started/installation.html ```
 - snakemake
 - slendr
-- R
+- R: ````install.packages(c("dplyr", "slendr","ggplot2", "admixr","purrr","readr","optparse"))````
 - python
 
 
