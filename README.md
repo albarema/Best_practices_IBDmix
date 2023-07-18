@@ -1,10 +1,10 @@
-# Best_practices_IBDmix
-Manual to perform good practices when looking for archaic segments using the state-of-the-art tools
+# Best practices to detect archaic sequences using IBDmix
+This protocol describes good practices on how to look for archaic segments using state-of-the-art tools. In particular, it focuses on optimising the use of IBDmix in different demographic scenarios and explores its use on ancient data [IBDmix Link](https://github.com/PrincetonUniversity/IBDmix). 
 
 
 # Demogrpahic model
 
-We can use demes [Demes Github](https://popsim-consortium.github.io/demes-spec-docs/main/introduction.html) to visualise the demographic model of interest as follow:
+First, we need a demographic model that represents important characteristics of our dataset. We can use demes [Demes Github](https://popsim-consortium.github.io/demes-spec-docs/main/introduction.html) to visualise the demographic model of interest as follow:
 ````
 demesdraw tubes --log-time modelA.yaml modelA_nlog.svg
 ````
@@ -14,8 +14,13 @@ The name of the model must be specified in the config.yaml and will be used for 
 
 # Workflow Simulations
 ### Step 0: Download software and packages 
-We run the simulations using the Snakemake workflow management system. Please, download snakemake following the instructions here:
+We run the simulations using the Snakemake workflow management system. Please, download Snakemake following the instructions here:
 ``` https://snakemake.readthedocs.io/en/stable/getting_started/installation.html ```
+- snakemake
+- slendr
+- R
+- python
+
 
 ### Step 1: get your config.yaml ready
 Check the toy config.yaml file. You will need to specify:
@@ -30,7 +35,7 @@ You can run the Snakefile as follows:
 ````
 snakemake --snakefile rules/00.gen_simuls_step1.smk --cores xx
 ````
-This will generate several files in some directories under your output dir:
+This will generate several files in some directories under your output-dir:
 - {model}_{seed}/results
 - {model}_{seed}/logs
 - {model}_{seed}/model
