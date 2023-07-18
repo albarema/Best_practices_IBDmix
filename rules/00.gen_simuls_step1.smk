@@ -16,9 +16,9 @@ rule all:
 
 rule slim:
     output:
-        vcf=protected("{model}_{seed}_{time}ky/results/output.vcf.gz"),
-        trees=protected("{model}_{seed}_{time}ky/results/{model}_{seed}_{time}ky_output_ts.trees"),
-        node=protected("{model}_{seed}_{time}ky/results/nodes.tsv")
+        vcf="{model}_{seed}_{time}ky/results/output.vcf.gz",
+        trees="{model}_{seed}_{time}ky/results/{model}_{seed}_{time}ky_output_ts.trees",
+        node="{model}_{seed}_{time}ky/results/nodes.tsv"
     conda: config['envs']
     log: '{model}_{seed}/logs/slim.log'
     shell:
