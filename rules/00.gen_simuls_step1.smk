@@ -20,11 +20,14 @@ rule slim:
         trees="{model}_{seed}_{time}ky/results/{model}_{seed}_{time}ky_output_ts.trees",
         node="{model}_{seed}_{time}ky/results/nodes.tsv"
     conda: config['envs']
+    params:
+        genome = config['genome_length'],
+        pop_size = config['ne']
     log: '{model}_{seed}/logs/slim.log'
     shell:
         "Rscript scripts/00.introgression.R "
-        "--ne 5000 "
-        "--length 200e6 "
+        "--ne {params.pop_size} "
+        "--length {params.genome} "
         "--time {wildcards.time}e3 "
         "--model {wildcards.model}_{wildcards.seed}_{wildcards.time}ky "
         "--seed {wildcards.seed} 2> {log}"
