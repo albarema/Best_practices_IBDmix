@@ -10,7 +10,7 @@ demesdraw tubes --log-time modelA.yaml modelA_nlog.svg
 ````
 [![INSERT YOUR GRAPHIC HERE](modelA.png)]()
 
-The name of the model must be specified in the config.yaml and will be used for downstream analyses. 
+The name of the model must be specified in the modelA.yaml and will be used for downstream analyses. 
 
 # Workflow Simulations
 ### Step 0: Download software and packages 
@@ -22,7 +22,7 @@ We run the simulations using the Snakemake workflow management system. Please, d
 - python
 
 
-### Step 1: get your config.yaml ready
+### Step 1: Get your config.yaml ready
 Check the toy config.yaml file. You will need to specify:
 - name of the model ('modelA')
 - path to environmental.yaml file ('path/to/environmetal.yaml')
