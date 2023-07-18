@@ -1,4 +1,9 @@
-model: Name_model
+model: modelA #Name_model
 epath: path/to/environmental.yaml
 opath: path/to/output_dir
-scripts: path(to/scripts
+times: #KYA
+  - 45
+  - 2
+seeds:
+  - 314159265
+genome_lengh: 200e6
