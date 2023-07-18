@@ -33,9 +33,9 @@ You can run the Snakefile as follows:
 snakemake --snakefile rules/00.gen_simuls_step1.smk --cores xx
 ````
 This will generate several files in some directories under your output-dir:
-- {model}_{seed}/results
-- {model}_{seed}/logs
-- {model}_{seed}/model
+- {model}_{seed}_{time}ky/results
+- {model}_{seed}_{time}ky/logs
+- {model}_{seed}_{time}ky/model
 
 
 STEP 2
