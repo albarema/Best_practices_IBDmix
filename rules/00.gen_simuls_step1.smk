@@ -3,28 +3,23 @@
 
 import numpy as np
 import pandas as pd
-from numpy.random import randint
 
-# conda activate aligns.
-
-SEED=314159265 
+SEED= config['seed'] 
 MODEL = config['models']
-EPATH = onfig['envs']
-
-#For randome seeds: randint(0, 999999999, 10)
+TIMES= config['times']
 
 
 rule all:
     input:
-        #expand("{model}_{seed}/results/output.vcf.gz", model=MODEL, seed=SEED),
-        expand("{model}_{seed}/results/{model}_{seed}_tracts.tsv.gz",model=MODEL, seed=SEED)
+        #expand("{model}_{seed}_{time}ky/results/output.vcf.gz", model=MODEL, seed=SEED, time=TIMES),
+        expand("{model}_{seed}_{time}ky/results/{model}_{seed}_{time}ky_tracts.tsv.gz",model=MODEL, seed=SEED, time=TIMES)
 
 rule slim:
     output:
         vcf=protected("{model}_{seed}_{time}ky/results/output.vcf.gz"),
         trees=protected("{model}_{seed}_{time}ky/results/{model}_{seed}_{time}ky_output_ts.trees"),
         node=protected("{model}_{seed}_{time}ky/results/nodes.tsv")
-    conda: EPATH
+    conda: config['envs']
     log: '{model}_{seed}/logs/slim.log'
     shell:
         "Rscript scripts/00.introgression.R "
