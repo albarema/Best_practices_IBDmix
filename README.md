@@ -1,5 +1,5 @@
 # Best practices to detect archaic sequences using IBDmix
-This protocol describes good practices on how to look for archaic segments using state-of-the-art tools. In particular, it focuses on optimising the use of IBDmix in different demographic scenarios and explores its use on ancient data [IBDmix Link](https://github.com/PrincetonUniversity/IBDmix). 
+This protocol describes good practices on how to look for archaic segments using state-of-the-art tools. In particular, it focuses on optimising the use of IBDmix in different demographic scenarios and explores its use on ancient data [IBDmix Github](https://github.com/PrincetonUniversity/IBDmix). 
 
 
 # Demogrpahic model
