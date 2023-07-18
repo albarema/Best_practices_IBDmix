@@ -14,18 +14,16 @@ The name of the model must be specified in the modelA.yaml and will be used for 
 
 # Workflow Simulations
 ### Step 0: Download software and packages 
-We run the simulations using the Snakemake workflow management system. Please, download Snakemake following the instructions here:
-``` https://snakemake.readthedocs.io/en/stable/getting_started/installation.html ```
-- snakemake
-- slendr
-- R: ````install.packages(c("dplyr", "slendr","ggplot2", "admixr","purrr","readr","optparse"))````
-- python
+We run the simulations using the Snakemake workflow management system. Please, download Snakemake following the instructions here: [Snakemake Install](https://snakemake.readthedocs.io/en/stable/getting_started/installation.html).
+- slender
+- R packages: ````install.packages(c("dplyr", "slendr","ggplot2", "admixr","purrr","readr","optparse"))````
+- Python
 
 
 ### Step 1: Get your config.yaml ready
 Check the toy config.yaml file. You will need to specify:
 - name of the model ('modelA')
-- path to environmental.yaml file ('path/to/environmetal.yaml')
+- path to environmental.yaml file ('path/to/environmental.yaml')
 - your output directory ('path/2/outputs')
 
 ### Step 2: run simulations and get tree sequences 
