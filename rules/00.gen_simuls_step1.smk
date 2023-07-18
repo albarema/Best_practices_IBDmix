@@ -7,7 +7,7 @@ from numpy.random import randint
 
 # conda activate aligns.
 
-SEED=1
+SEED=314159265 
 MODEL = config['models']
 EPATH = onfig['envs']
 
