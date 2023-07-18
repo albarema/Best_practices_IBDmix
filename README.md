@@ -14,10 +14,9 @@ The name of the model must be specified in the modelA.yaml and will be used for 
 
 # Workflow Simulations
 ### Step 0: Download software and packages 
-We run the simulations using the Snakemake workflow management system. Please, download Snakemake following the instructions here: [Snakemake Install](https://snakemake.readthedocs.io/en/stable/getting_started/installation.html).
-- slender
+Pre-install the latest version of Python and R. We run the simulations using the Snakemake workflow management system. Please, download Snakemake following the instructions here: [Snakemake Install](https://snakemake.readthedocs.io/en/stable/getting_started/installation.html).
+- Slendr: [Slendr Install](https://cloud.r-project.org/web/packages/slendr/vignettes/vignette-00-installation.html)
 - R packages: ````install.packages(c("dplyr", "slendr","ggplot2", "admixr","purrr","readr","optparse"))````
-- Python
 
 
 ### Step 1: Get your config.yaml ready
