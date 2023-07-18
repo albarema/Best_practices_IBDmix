@@ -4,9 +4,9 @@
 import numpy as np
 import pandas as pd
 
-SEED= config['seed'] 
-MODEL = config['models']
-TIMES= config['times']
+SEED= config['model']['seed'] 
+MODEL = config['model']
+TIMES= config['model']['times']
 
 
 rule all:
@@ -21,8 +21,8 @@ rule slim:
         node="{model}_{seed}_{time}ky/results/nodes.tsv"
     conda: config['envs']
     params:
-        genome = config['genome_length'],
-        pop_size = config['ne']
+        genome = config['model']['genome_length'],
+        pop_size = config['model']['ne']
     log: '{model}_{seed}/logs/slim.log'
     shell:
         "Rscript scripts/00.introgression.R "
