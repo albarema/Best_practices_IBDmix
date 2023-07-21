@@ -38,6 +38,16 @@ This will generate several files in some directories under your output-dir:
 - {model}_{seed}_{time}ky/model
 
 
-STEP 2
+# Archaic segments detection using IBDmix software
+We modified the snakemake pipeline from [IBDmix Github](https://github.com/PrincetonUniversity/IBDmix) to run IBDmix on several archaic genomes for all simualtions. 
+````
+snakemake --snakefile rules/01.simulations_arc_detection.smk --cores xx
+````
 
-# Evaluation
+# Performance evaluation 
+ We calculate the performance at the base-pair and window levels. Difference measures are calculated to better calibrate the software. 
+ 
+````
+snakemake --snakefile rules/02.eval_performance.smk --cores xx
+````
+
