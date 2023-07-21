@@ -1,6 +1,6 @@
 # conda activate neon
 # RUN IBD for simulations using this file. It will use the snakemake file from the common IBDmix dir.Snakefile form this dir
-configfile: 'config_nea2_1.yaml'
+configfile: 'config_simul.yaml'
 MODEL=config['model']
 
 chromosomes = config['chr']
