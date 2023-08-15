@@ -37,13 +37,14 @@ This will generate several files in some directories under your output-dir:
 - {model}_{seed}_{time}ky/logs
 - {model}_{seed}_{time}ky/model
 
-This step runs 3 scripts:
-1. scripts/00.introgression.r: generates the simulations and outputs vcf file, the tree sequence data and the simulation model. 
+It runs 3 scripts:
+1. scripts/00.introgression.R: generates the simulations and outputs _vcf_ file, the tree sequence data and the simulation model. 
 2. scripts/00.detect_tracts.py: iterates through every genomic locus and outputs the introgressed tracts. 
-3. scripts/00.
+3. scripts/00.calculate_f4_ratio.r: calculates the f4 ratio. This step is useful to have a glance at the data and double-check the simulations' output. 
+
 
 # Archaic segments detection using IBDmix software
-We modified the snakemake pipeline from [IBDmix Github](https://github.com/PrincetonUniversity/IBDmix) to run IBDmix on several archaic genomes for all simualtions. 
+We modified the Snakemake pipeline from [IBDmix Github](https://github.com/PrincetonUniversity/IBDmix) to run IBDmix on several archaic genomes for all simulations. 
 ````
 snakemake --snakefile rules/01.simulations_arc_detection.smk --cores xx
 ````
