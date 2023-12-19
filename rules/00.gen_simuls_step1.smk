@@ -4,7 +4,7 @@
 import numpy as np
 import pandas as pd
 
-SEED= config['model']['seed'] 
+SEED= config['model']['seed']
 MODEL = config['model']
 TIMES= config['model']['times']
 
@@ -18,7 +18,8 @@ rule slim:
     output:
         vcf="{model}_{seed}_{time}ky/results/output.vcf.gz",
         trees="{model}_{seed}_{time}ky/results/{model}_{seed}_{time}ky_output_ts.trees",
-        node="{model}_{seed}_{time}ky/results/nodes.tsv"
+        node="{model}_{seed}_{time}ky/results/nodes.tsv",
+        tracts="{model}_{seed}_{time}ky/results/{model}_{seed}_{time}ky_tracts.tsv.gz"
     conda: config['envs']
     params:
         genome = config['model']['genome_length'],
@@ -31,22 +32,6 @@ rule slim:
         "--time {wildcards.time}e3 "
         "--model {wildcards.model}_{wildcards.seed}_{wildcards.time}ky "
         "--seed {wildcards.seed} 2> {log}"
-
-rule track:
-    input:
-        vcf="{model}_{seed}_{time}ky/results/output.vcf.gz",
-        trees="{model}_{seed}_{time}ky/results/{model}_{seed}_{time}ky_output_ts.trees",
-        node="{model}_{seed}_{time}ky/results/nodes.tsv"
-    output:
-        "{model}_{seed}_{time}ky/results/{model}_{seed}_{time}ky_tracts.tsv.gz"
-    log: '{model}_{seed}_{time}ky/logs/trees_track.log'
-    params:
-        model="{model}_{seed}_{time}ky/model/",
-    shell:
-        "python scripts/00.detect_tracts.py "
-        "--slendr {params.model} "
-        "--trees  {input.trees} "
-        "--output {output} 2> {log}"
 
 rule f4_ratio:
     input:
