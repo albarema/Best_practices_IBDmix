@@ -31,7 +31,7 @@ if (is.null(opt$ne)){
 }
 
 mod <- opt$model
-ne_pop1 <- opt$ne
+ne_pop1 <- as.integer(opt$ne)
 seglen <- as.numeric(opt$length)
 SEED <- opt$seed
 split_time <-  as.numeric(opt$time)
@@ -77,10 +77,10 @@ pops <- list(ancestor, archaic, neaA, nea2, nea1A, nea1, intN, AMH, OOA, Eurasia
 model <- compile_model(
   populations = pops, gene_flow = gf,
   generation_time = 29,
-  path = model_dir, overwrite = TRUE
+  path = model_dir, overwrite = TRUE, force = TRUE
 )
 
-plot_model(model)
+# plot_model(model)
 
 # ---------------- sampling ----------------
 nea_samples <- schedule_sampling(model, times = c(70000,40000), list(nea1, 1),list(nea2, 1))
@@ -91,7 +91,7 @@ emh_samples <- schedule_sampling(model, times = seq(split_time, 2000, by = -500)
 samples <- rbind(nea_samples, present_samples, emh_samples)
 
 
-# ---------------- slim ----------------
+# ---------------- msprime ----------------
 start_time <- Sys.time()
 ts <- msprime(
   model, sequence_length = seglen, recombination_rate = 1e-8,
@@ -99,7 +99,7 @@ ts <- msprime(
   verbose = TRUE, random_seed = SEED
 ) %>% ts_mutate(1e-8)
 
-ts_save(ts, file = file.path(output_dir, paste(mod, "_output", sep="")))
+ts_save(ts, file = file.path(output_dir, paste(mod, "_output_ts.trees", sep="")))
 
 end_time <- Sys.time()
 end_time - start_time
@@ -129,5 +129,6 @@ node_table <-
 write_tsv(node_table, file.path(output_dir,"nodes.tsv"))
 
 
-
-
+# extract the Neanderthal tract coordinates
+tracts <- ts_tracts(ts, census = 55000, source = "intN")
+write_tsv(tracts, file.path(output_dir, paste(mod, "_tracts.tsv.gz", sep="")))
