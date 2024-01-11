@@ -7,5 +7,5 @@ model: modelA #Name_model
  genome_lengh: 200e6
  ne: 5000
 
-epath: path/to/environmental.yaml
+epath: path/to/environment.yaml
 opath: path/to/output_dir
