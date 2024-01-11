@@ -20,7 +20,8 @@ Pre-install the latest version of Python and R. We run the simulations using the
 
 Alternatively, you can use the provided environmental.yaml file to create a new environment for this project
 1. Clone this repository (git clone XXXX)
-2. Create a conda environment (conda env create --file environment.yaml). Modify the prefix at the end of this YAML file (and the name of the environment if interested)
+2. Create a conda environment (conda env create --name XXX --file environment.yaml). Modify the prefix at the end of this YAML file (and the name of the environment if interested)
+3. Update the path to the config file in the snakemake rules (configfile: path/to/config.yaml)
 
 ### Step 1: Get your config.yaml ready
 Check the toy config.yaml file. You will need to specify:
