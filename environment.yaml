@@ -1,5 +1,4 @@
-
-name: slendr
+name: arc
 channels:
   - conda-forge
   - bioconda
@@ -14,4 +13,21 @@ dependencies:
   - matplotlib
   - pyslim
   - ipywidgets
-prefix: /projects/racimolab/people/gsd818/.conda/envs/slendr
+  - pandas
+  - zlib
+  - compilers
+  - more-itertools
+  - python==3.6.7
+  - cmake=3.16
+  - snakemake
+  - r-tidyverse
+  - scipy
+  - libssh
+  - slim
+  - msprime
+  - pyslim
+  - mamba
+  - bedtools
+  - sshfs
+  - r-bootstrap
+prefix: /projects/racimolab/people/gsd818/bin/miniconda3/envs/arc
