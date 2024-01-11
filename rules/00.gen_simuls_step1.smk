@@ -1,5 +1,5 @@
 # Step 1: GET VCF for simulations
-# snakemake --snakefile slim_vcf_intro_seed.smk --cores 50 --use-conda
+# snakemake --snakefile 00.gen_simuls_step1.smk --cores 50 --use-conda
 
 import numpy as np
 import pandas as pd
@@ -14,7 +14,7 @@ rule all:
         #expand("{model}_{seed}_{time}ky/results/output.vcf.gz", model=MODEL, seed=SEED, time=TIMES),
         expand("{model}_{seed}_{time}ky/results/{model}_{seed}_{time}ky_tracts.tsv.gz",model=MODEL, seed=SEED, time=TIMES)
 
-rule slim:
+rule msprime:
     output:
         vcf="{model}_{seed}_{time}ky/results/output.vcf.gz",
         trees="{model}_{seed}_{time}ky/results/{model}_{seed}_{time}ky_output_ts.trees",
