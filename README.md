@@ -16,7 +16,7 @@ The name of the model must be specified in the modelA.yaml and will be used for 
 ### Step 0: Download software and packages 
 Pre-install the latest version of Python and R. We run the simulations using the Snakemake workflow management system. Please, download Snakemake following the instructions here: [Snakemake Install](https://snakemake.readthedocs.io/en/stable/getting_started/installation.html).
 - Slendr: [Slendr Install](https://cloud.r-project.org/web/packages/slendr/vignettes/vignette-00-installation.html). Remember to run setup_env() before running the pipeline
-- R packages: ````install.packages(c("dplyr", "slendr","ggplot2", "admixr","purrr","readr","optparse"))````
+- R packages: ````install.packages(c("dplyr", "slendr","ggplot2", "admixr","purrr","readr","optparse", "reticulate"))````
 
 Alternatively, you can use the provided environmental.yaml file to create a new environment for this project
 1. Clone this repository (git clone XXXX)
