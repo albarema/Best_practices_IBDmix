@@ -1,0 +1,21 @@
+epath: environmental.yaml # path/to/yaml
+spath: /maps/projects/racimolab/people/gsd818/arcIntro/introgression-sims/msprime
+envs: /maps/projects/racimolab/people/gsd818/arcIntro/environment_slendr.yaml
+model:
+  name: modelA # Name_model
+  times:
+    - 45 # 20,15,10,5,2KYA
+  seeds:
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+  genome_length: 200e6
+  ne: 5000 
+    - 2500
+    - 10000

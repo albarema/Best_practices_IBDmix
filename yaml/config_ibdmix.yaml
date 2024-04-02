@@ -1,0 +1,49 @@
+# I have changed the combined_summary_to dist_pops to not overwrite the summary stats
+# used for pop_size, split_time, seeds
+---
+cmake_module: 'cmake/3.x'
+
+chr: '1'
+model: modelA_1_45ky
+
+paths:
+    exe_root: /projects/racimolab/people/gsd818/arcIntro/IBDmix/build/src/
+    # location of repository in file system
+    sample_name: nea1_2
+    source_root: /projects/racimolab/people/gsd818/arcIntro/IBDmix/
+    modern_vcf: "{model}/vcf/afro-eurasia.vcf.gz"
+    archaic_vcf: "{model}/vcf/arc-{sample_name}.vcf.gz"
+    # if removed will use all samples, pop_size seeds, uncomment first line
+#    sample_file: "samples/{population}.txt" 
+    sample_file: "modelA_1_45ky/samples/{population}.txt"
+    # if removed will use all positions 
+    output_root: "{model}/ibdmix_temp_with_sites"
+    genotype_file: "{output_root}/genotype/{sample_name}_{chrom}.gz"
+    ibd_output: "{output_root}/ibd_raw/\
+        {sample_name}_{population}_{chrom}.gz"
+    ibd_bed: "{output_root}/ibd_bed/\
+        {sample_name}_{population}_{chrom}.gz"
+    ibd_summary: "{output_root}/ibd_summary/\
+        {sample_name}_{population}_{chrom}_{LOD}_{length}.gz"
+    combined_summary: "{output_root}/ibd_summary_combined/\
+        {sample_name}_{chrom}_{LOD}_{length}.gz"
+
+IBDmix:
+    # can also include name of archaic, more-stats or inclusive-end
+    options: >
+        -t
+        --minor-allele-count-threshold 1
+        --archaic-error 0.01
+        --modern-error-max 0.002
+        --modern-error-proportion 2
+        --LOD-threshold 1
+        --more-stats
+
+    # True to calculate total masked bases and largest masked region
+    mask_stats: True
+
+    # remove for no summary, add 0s for no filtering
+    summary_lod:
+        - 3
+    summary_length:
+        - 4000

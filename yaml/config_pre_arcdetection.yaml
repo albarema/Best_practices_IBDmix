@@ -1,0 +1,31 @@
+versiond: 
+ - modelA_1_45ky
+ - modelA_1_15ky
+ - modelA_1_5ky
+ - modelA_1_20ky
+ - modelA_1_2ky
+ - modelA_1_10ky
+
+paths:
+  sim_dir: /projects/racimolab/people/gsd818/arcIntro/introgression-sims/msprime/split_times
+
+# versiond: 
+#  - modelA_2_45ky
+#  - modelA_3_45ky
+#  - modelA_4_45ky
+#  - modelA_5_45ky
+#  - modelA_6_45ky
+#  - modelA_7_45ky
+#  - modelA_8_45ky
+#  - modelA_9_45ky
+#  - modelA_10_45ky
+
+# paths:
+#   sim_dir: /projects/racimolab/people/gsd818/arcIntro/introgression-sims/msprime/seeds
+
+# versiond: 
+#  - modelA_1_10000_45ky
+#  - modelA_1_2500_45ky
+
+# paths:
+#   sim_dir: /projects/racimolab/people/gsd818/arcIntro/introgression-sims/msprime/pop_size
