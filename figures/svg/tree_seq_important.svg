@@ -1,0 +1,2742 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg35099"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="tree_seq_important.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview35101"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:zoom="0.79658499"
+     inkscape:cx="-467.62116"
+     inkscape:cy="809.70644"
+     inkscape:window-width="1680"
+     inkscape:window-height="982"
+     inkscape:window-x="81"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs35096">
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#020203;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#020203;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <rect
+       x="938.53389"
+       y="1317.5285"
+       width="1126.5391"
+       height="904.21548"
+       id="rect94094" />
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path85795" />
+    </marker>
+    <style
+       type="text/css"
+       id="style72408">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="DejaVuSans-50"
+       d="M 1259 4147  L 1259 2394  L 2053 2394  Q 2494 2394 2734 2622  Q 2975 2850 2975 3272  Q 2975 3691 2734 3919  Q 2494 4147 2053 4147  L 1259 4147  z M 628 4666  L 2053 4666  Q 2838 4666 3239 4311  Q 3641 3956 3641 3272  Q 3641 2581 3239 2228  Q 2838 1875 2053 1875  L 1259 1875  L 1259 0  L 628 0  L 628 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-6f"
+       d="M 1959 3097  Q 1497 3097 1228 2736  Q 959 2375 959 1747  Q 959 1119 1226 758  Q 1494 397 1959 397  Q 2419 397 2687 759  Q 2956 1122 2956 1747  Q 2956 2369 2687 2733  Q 2419 3097 1959 3097  z M 1959 3584  Q 2709 3584 3137 3096  Q 3566 2609 3566 1747  Q 3566 888 3137 398  Q 2709 -91 1959 -91  Q 1206 -91 779 398  Q 353 888 353 1747  Q 353 2609 779 3096  Q 1206 3584 1959 3584  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-70"
+       d="M 1159 525  L 1159 -1331  L 581 -1331  L 581 3500  L 1159 3500  L 1159 2969  Q 1341 3281 1617 3432  Q 1894 3584 2278 3584  Q 2916 3584 3314 3078  Q 3713 2572 3713 1747  Q 3713 922 3314 415  Q 2916 -91 2278 -91  Q 1894 -91 1617 61  Q 1341 213 1159 525  z M 3116 1747  Q 3116 2381 2855 2742  Q 2594 3103 2138 3103  Q 1681 3103 1420 2742  Q 1159 2381 1159 1747  Q 1159 1113 1420 752  Q 1681 391 2138 391  Q 2594 391 2855 752  Q 3116 1113 3116 1747  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-31"
+       d="M 794 531  L 1825 531  L 1825 4091  L 703 3866  L 703 4441  L 1819 4666  L 2450 4666  L 2450 531  L 3481 531  L 3481 0  L 794 0  L 794 531  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-32"
+       d="M 1228 531  L 3431 531  L 3431 0  L 469 0  L 469 531  Q 828 903 1448 1529  Q 2069 2156 2228 2338  Q 2531 2678 2651 2914  Q 2772 3150 2772 3378  Q 2772 3750 2511 3984  Q 2250 4219 1831 4219  Q 1534 4219 1204 4116  Q 875 4013 500 3803  L 500 4441  Q 881 4594 1212 4672  Q 1544 4750 1819 4750  Q 2544 4750 2975 4387  Q 3406 4025 3406 3419  Q 3406 3131 3298 2873  Q 3191 2616 2906 2266  Q 2828 2175 2409 1742  Q 1991 1309 1228 531  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-41"
+       d="M 2188 4044  L 1331 1722  L 3047 1722  L 2188 4044  z M 1831 4666  L 2547 4666  L 4325 0  L 3669 0  L 3244 1197  L 1141 1197  L 716 0  L 50 0  L 1831 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-46"
+       d="M 628 4666  L 3309 4666  L 3309 4134  L 1259 4134  L 1259 2759  L 3109 2759  L 3109 2228  L 1259 2228  L 1259 0  L 628 0  L 628 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-52"
+       d="M 2841 2188  Q 3044 2119 3236 1894  Q 3428 1669 3622 1275  L 4263 0  L 3584 0  L 2988 1197  Q 2756 1666 2539 1819  Q 2322 1972 1947 1972  L 1259 1972  L 1259 0  L 628 0  L 628 4666  L 2053 4666  Q 2853 4666 3247 4331  Q 3641 3997 3641 3322  Q 3641 2881 3436 2590  Q 3231 2300 2841 2188  z M 1259 4147  L 1259 2491  L 2053 2491  Q 2509 2491 2742 2702  Q 2975 2913 2975 3322  Q 2975 3731 2742 3939  Q 2509 4147 2053 4147  L 1259 4147  z "
+       transform="scale(0.015625)" />
+    <path
+       id="ma217947e8e"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="DejaVuSans-30"
+       d="M 2034 4250  Q 1547 4250 1301 3770  Q 1056 3291 1056 2328  Q 1056 1369 1301 889  Q 1547 409 2034 409  Q 2525 409 2770 889  Q 3016 1369 3016 2328  Q 3016 3291 2770 3770  Q 2525 4250 2034 4250  z M 2034 4750  Q 2819 4750 3233 4129  Q 3647 3509 3647 2328  Q 3647 1150 3233 529  Q 2819 -91 2034 -91  Q 1250 -91 836 529  Q 422 1150 422 2328  Q 422 3509 836 4129  Q 1250 4750 2034 4750  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-33"
+       d="M 2597 2516  Q 3050 2419 3304 2112  Q 3559 1806 3559 1356  Q 3559 666 3084 287  Q 2609 -91 1734 -91  Q 1441 -91 1130 -33  Q 819 25 488 141  L 488 750  Q 750 597 1062 519  Q 1375 441 1716 441  Q 2309 441 2620 675  Q 2931 909 2931 1356  Q 2931 1769 2642 2001  Q 2353 2234 1838 2234  L 1294 2234  L 1294 2753  L 1863 2753  Q 2328 2753 2575 2939  Q 2822 3125 2822 3475  Q 2822 3834 2567 4026  Q 2313 4219 1838 4219  Q 1578 4219 1281 4162  Q 984 4106 628 3988  L 628 4550  Q 988 4650 1302 4700  Q 1616 4750 1894 4750  Q 2613 4750 3031 4423  Q 3450 4097 3450 3541  Q 3450 3153 3228 2886  Q 3006 2619 2597 2516  z "
+       transform="scale(0.015625)" />
+    <path
+       id="m539f156b3a"
+       d="M 0 0  L -2 0  "
+       style="stroke: #000000; stroke-width: 0.6" />
+    <path
+       id="DejaVuSans-74"
+       d="M 1172 4494  L 1172 3500  L 2356 3500  L 2356 3053  L 1172 3053  L 1172 1153  Q 1172 725 1289 603  Q 1406 481 1766 481  L 2356 481  L 2356 0  L 1766 0  Q 1100 0 847 248  Q 594 497 594 1153  L 594 3053  L 172 3053  L 172 3500  L 594 3500  L 594 4494  L 1172 4494  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-69"
+       d="M 603 3500  L 1178 3500  L 1178 0  L 603 0  L 603 3500  z M 603 4863  L 1178 4863  L 1178 4134  L 603 4134  L 603 4863  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-6d"
+       d="M 3328 2828  Q 3544 3216 3844 3400  Q 4144 3584 4550 3584  Q 5097 3584 5394 3201  Q 5691 2819 5691 2113  L 5691 0  L 5113 0  L 5113 2094  Q 5113 2597 4934 2840  Q 4756 3084 4391 3084  Q 3944 3084 3684 2787  Q 3425 2491 3425 1978  L 3425 0  L 2847 0  L 2847 2094  Q 2847 2600 2669 2842  Q 2491 3084 2119 3084  Q 1678 3084 1418 2786  Q 1159 2488 1159 1978  L 1159 0  L 581 0  L 581 3500  L 1159 3500  L 1159 2956  Q 1356 3278 1631 3431  Q 1906 3584 2284 3584  Q 2666 3584 2933 3390  Q 3200 3197 3328 2828  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-65"
+       d="M 3597 1894  L 3597 1613  L 953 1613  Q 991 1019 1311 708  Q 1631 397 2203 397  Q 2534 397 2845 478  Q 3156 559 3463 722  L 3463 178  Q 3153 47 2828 -22  Q 2503 -91 2169 -91  Q 1331 -91 842 396  Q 353 884 353 1716  Q 353 2575 817 3079  Q 1281 3584 2069 3584  Q 2775 3584 3186 3129  Q 3597 2675 3597 1894  z M 3022 2063  Q 3016 2534 2758 2815  Q 2500 3097 2075 3097  Q 1594 3097 1305 2825  Q 1016 2553 972 2059  L 3022 2063  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-20"
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-61"
+       d="M 2194 1759  Q 1497 1759 1228 1600  Q 959 1441 959 1056  Q 959 750 1161 570  Q 1363 391 1709 391  Q 2188 391 2477 730  Q 2766 1069 2766 1631  L 2766 1759  L 2194 1759  z M 3341 1997  L 3341 0  L 2766 0  L 2766 531  Q 2569 213 2275 61  Q 1981 -91 1556 -91  Q 1019 -91 701 211  Q 384 513 384 1019  Q 384 1609 779 1909  Q 1175 2209 1959 2209  L 2766 2209  L 2766 2266  Q 2766 2663 2505 2880  Q 2244 3097 1772 3097  Q 1472 3097 1187 3025  Q 903 2953 641 2809  L 641 3341  Q 956 3463 1253 3523  Q 1550 3584 1831 3584  Q 2591 3584 2966 3190  Q 3341 2797 3341 1997  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-67"
+       d="M 2906 1791  Q 2906 2416 2648 2759  Q 2391 3103 1925 3103  Q 1463 3103 1205 2759  Q 947 2416 947 1791  Q 947 1169 1205 825  Q 1463 481 1925 481  Q 2391 481 2648 825  Q 2906 1169 2906 1791  z M 3481 434  Q 3481 -459 3084 -895  Q 2688 -1331 1869 -1331  Q 1566 -1331 1297 -1286  Q 1028 -1241 775 -1147  L 775 -588  Q 1028 -725 1275 -790  Q 1522 -856 1778 -856  Q 2344 -856 2625 -561  Q 2906 -266 2906 331  L 2906 616  Q 2728 306 2450 153  Q 2172 0 1784 0  Q 1141 0 747 490  Q 353 981 353 1791  Q 353 2603 747 3093  Q 1141 3584 1784 3584  Q 2172 3584 2450 3431  Q 2728 3278 2906 2969  L 2906 3500  L 3481 3500  L 3481 434  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-28"
+       d="M 1984 4856  Q 1566 4138 1362 3434  Q 1159 2731 1159 2009  Q 1159 1288 1364 580  Q 1569 -128 1984 -844  L 1484 -844  Q 1016 -109 783 600  Q 550 1309 550 2009  Q 550 2706 781 3412  Q 1013 4119 1484 4856  L 1984 4856  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-79"
+       d="M 2059 -325  Q 1816 -950 1584 -1140  Q 1353 -1331 966 -1331  L 506 -1331  L 506 -850  L 844 -850  Q 1081 -850 1212 -737  Q 1344 -625 1503 -206  L 1606 56  L 191 3500  L 800 3500  L 1894 763  L 2988 3500  L 3597 3500  L 2059 -325  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-72"
+       d="M 2631 2963  Q 2534 3019 2420 3045  Q 2306 3072 2169 3072  Q 1681 3072 1420 2755  Q 1159 2438 1159 1844  L 1159 0  L 581 0  L 581 3500  L 1159 3500  L 1159 2956  Q 1341 3275 1631 3429  Q 1922 3584 2338 3584  Q 2397 3584 2469 3576  Q 2541 3569 2628 3553  L 2631 2963  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-73"
+       d="M 2834 3397  L 2834 2853  Q 2591 2978 2328 3040  Q 2066 3103 1784 3103  Q 1356 3103 1142 2972  Q 928 2841 928 2578  Q 928 2378 1081 2264  Q 1234 2150 1697 2047  L 1894 2003  Q 2506 1872 2764 1633  Q 3022 1394 3022 966  Q 3022 478 2636 193  Q 2250 -91 1575 -91  Q 1294 -91 989 -36  Q 684 19 347 128  L 347 722  Q 666 556 975 473  Q 1284 391 1588 391  Q 1994 391 2212 530  Q 2431 669 2431 922  Q 2431 1156 2273 1281  Q 2116 1406 1581 1522  L 1381 1569  Q 847 1681 609 1914  Q 372 2147 372 2553  Q 372 3047 722 3315  Q 1072 3584 1716 3584  Q 2034 3584 2315 3537  Q 2597 3491 2834 3397  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-29"
+       d="M 513 4856  L 1013 4856  Q 1481 4119 1714 3412  Q 1947 2706 1947 2009  Q 1947 1309 1714 600  Q 1481 -109 1013 -844  L 513 -844  Q 928 -128 1133 580  Q 1338 1288 1338 2009  Q 1338 2731 1133 3434  Q 928 4138 513 4856  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-6e"
+       d="M 3513 2113  L 3513 0  L 2938 0  L 2938 2094  Q 2938 2591 2744 2837  Q 2550 3084 2163 3084  Q 1697 3084 1428 2787  Q 1159 2491 1159 1978  L 1159 0  L 581 0  L 581 3500  L 1159 3500  L 1159 2956  Q 1366 3272 1645 3428  Q 1925 3584 2291 3584  Q 2894 3584 3203 3211  Q 3513 2838 3513 2113  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-63"
+       d="M 3122 3366  L 3122 2828  Q 2878 2963 2633 3030  Q 2388 3097 2138 3097  Q 1578 3097 1268 2742  Q 959 2388 959 1747  Q 959 1106 1268 751  Q 1578 397 2138 397  Q 2388 397 2633 464  Q 2878 531 3122 666  L 3122 134  Q 2881 22 2623 -34  Q 2366 -91 2075 -91  Q 1284 -91 818 406  Q 353 903 353 1747  Q 353 2603 823 3093  Q 1294 3584 2113 3584  Q 2378 3584 2631 3529  Q 2884 3475 3122 3366  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-6c"
+       d="M 603 4863  L 1178 4863  L 1178 0  L 603 0  L 603 4863  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-68"
+       d="M 3513 2113  L 3513 0  L 2938 0  L 2938 2094  Q 2938 2591 2744 2837  Q 2550 3084 2163 3084  Q 1697 3084 1428 2787  Q 1159 2491 1159 1978  L 1159 0  L 581 0  L 581 4863  L 1159 4863  L 1159 2956  Q 1366 3272 1645 3428  Q 1925 3584 2291 3584  Q 2894 3584 3203 3211  Q 3513 2838 3513 2113  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-4e"
+       d="M 628 4666  L 1478 4666  L 3547 763  L 3547 4666  L 4159 4666  L 4159 0  L 3309 0  L 1241 3903  L 1241 0  L 628 0  L 628 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-4d"
+       d="M 628 4666  L 1569 4666  L 2759 1491  L 3956 4666  L 4897 4666  L 4897 0  L 4281 0  L 4281 4097  L 3078 897  L 2444 897  L 1241 4097  L 1241 0  L 628 0  L 628 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-48"
+       d="M 628 4666  L 1259 4666  L 1259 2753  L 3553 2753  L 3553 4666  L 4184 4666  L 4184 0  L 3553 0  L 3553 2222  L 1259 2222  L 1259 0  L 628 0  L 628 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-4f"
+       d="M 2522 4238  Q 1834 4238 1429 3725  Q 1025 3213 1025 2328  Q 1025 1447 1429 934  Q 1834 422 2522 422  Q 3209 422 3611 934  Q 4013 1447 4013 2328  Q 4013 3213 3611 3725  Q 3209 4238 2522 4238  z M 2522 4750  Q 3503 4750 4090 4092  Q 4678 3434 4678 2328  Q 4678 1225 4090 567  Q 3503 -91 2522 -91  Q 1538 -91 948 565  Q 359 1222 359 2328  Q 359 3434 948 4092  Q 1538 4750 2522 4750  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-45"
+       d="M 628 4666  L 3578 4666  L 3578 4134  L 1259 4134  L 1259 2753  L 3481 2753  L 3481 2222  L 1259 2222  L 1259 531  L 3634 531  L 3634 0  L 628 0  L 628 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-75"
+       d="M 544 1381  L 544 3500  L 1119 3500  L 1119 1403  Q 1119 906 1312 657  Q 1506 409 1894 409  Q 2359 409 2629 706  Q 2900 1003 2900 1516  L 2900 3500  L 3475 3500  L 3475 0  L 2900 0  L 2900 538  Q 2691 219 2414 64  Q 2138 -91 1772 -91  Q 1169 -91 856 284  Q 544 659 544 1381  z M 1991 3584  L 1991 3584  z "
+       transform="scale(0.015625)" />
+    <clipPath
+       id="p1f584da4f4">
+      <rect
+         x="49.078125"
+         y="10.8"
+         width="554.281875"
+         height="310.821875"
+         id="rect73066" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style73669">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+    <path
+       id="DejaVuSans-50-8"
+       d="M 1259 4147  L 1259 2394  L 2053 2394  Q 2494 2394 2734 2622  Q 2975 2850 2975 3272  Q 2975 3691 2734 3919  Q 2494 4147 2053 4147  L 1259 4147  z M 628 4666  L 2053 4666  Q 2838 4666 3239 4311  Q 3641 3956 3641 3272  Q 3641 2581 3239 2228  Q 2838 1875 2053 1875  L 1259 1875  L 1259 0  L 628 0  L 628 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-6f-9"
+       d="M 1959 3097  Q 1497 3097 1228 2736  Q 959 2375 959 1747  Q 959 1119 1226 758  Q 1494 397 1959 397  Q 2419 397 2687 759  Q 2956 1122 2956 1747  Q 2956 2369 2687 2733  Q 2419 3097 1959 3097  z M 1959 3584  Q 2709 3584 3137 3096  Q 3566 2609 3566 1747  Q 3566 888 3137 398  Q 2709 -91 1959 -91  Q 1206 -91 779 398  Q 353 888 353 1747  Q 353 2609 779 3096  Q 1206 3584 1959 3584  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-70-7"
+       d="M 1159 525  L 1159 -1331  L 581 -1331  L 581 3500  L 1159 3500  L 1159 2969  Q 1341 3281 1617 3432  Q 1894 3584 2278 3584  Q 2916 3584 3314 3078  Q 3713 2572 3713 1747  Q 3713 922 3314 415  Q 2916 -91 2278 -91  Q 1894 -91 1617 61  Q 1341 213 1159 525  z M 3116 1747  Q 3116 2381 2855 2742  Q 2594 3103 2138 3103  Q 1681 3103 1420 2742  Q 1159 2381 1159 1747  Q 1159 1113 1420 752  Q 1681 391 2138 391  Q 2594 391 2855 752  Q 3116 1113 3116 1747  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-31-5"
+       d="M 794 531  L 1825 531  L 1825 4091  L 703 3866  L 703 4441  L 1819 4666  L 2450 4666  L 2450 531  L 3481 531  L 3481 0  L 794 0  L 794 531  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-32-7"
+       d="M 1228 531  L 3431 531  L 3431 0  L 469 0  L 469 531  Q 828 903 1448 1529  Q 2069 2156 2228 2338  Q 2531 2678 2651 2914  Q 2772 3150 2772 3378  Q 2772 3750 2511 3984  Q 2250 4219 1831 4219  Q 1534 4219 1204 4116  Q 875 4013 500 3803  L 500 4441  Q 881 4594 1212 4672  Q 1544 4750 1819 4750  Q 2544 4750 2975 4387  Q 3406 4025 3406 3419  Q 3406 3131 3298 2873  Q 3191 2616 2906 2266  Q 2828 2175 2409 1742  Q 1991 1309 1228 531  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-41-8"
+       d="M 2188 4044  L 1331 1722  L 3047 1722  L 2188 4044  z M 1831 4666  L 2547 4666  L 4325 0  L 3669 0  L 3244 1197  L 1141 1197  L 716 0  L 50 0  L 1831 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-46-1"
+       d="M 628 4666  L 3309 4666  L 3309 4134  L 1259 4134  L 1259 2759  L 3109 2759  L 3109 2228  L 1259 2228  L 1259 0  L 628 0  L 628 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-52-4"
+       d="M 2841 2188  Q 3044 2119 3236 1894  Q 3428 1669 3622 1275  L 4263 0  L 3584 0  L 2988 1197  Q 2756 1666 2539 1819  Q 2322 1972 1947 1972  L 1259 1972  L 1259 0  L 628 0  L 628 4666  L 2053 4666  Q 2853 4666 3247 4331  Q 3641 3997 3641 3322  Q 3641 2881 3436 2590  Q 3231 2300 2841 2188  z M 1259 4147  L 1259 2491  L 2053 2491  Q 2509 2491 2742 2702  Q 2975 2913 2975 3322  Q 2975 3731 2742 3939  Q 2509 4147 2053 4147  L 1259 4147  z "
+       transform="scale(0.015625)" />
+    <path
+       id="m3d4aa1f6ae"
+       d="M 0 0  L -3.5 0  "
+       style="stroke: #000000; stroke-width: 0.8" />
+    <path
+       id="DejaVuSans-30-3"
+       d="M 2034 4250  Q 1547 4250 1301 3770  Q 1056 3291 1056 2328  Q 1056 1369 1301 889  Q 1547 409 2034 409  Q 2525 409 2770 889  Q 3016 1369 3016 2328  Q 3016 3291 2770 3770  Q 2525 4250 2034 4250  z M 2034 4750  Q 2819 4750 3233 4129  Q 3647 3509 3647 2328  Q 3647 1150 3233 529  Q 2819 -91 2034 -91  Q 1250 -91 836 529  Q 422 1150 422 2328  Q 422 3509 836 4129  Q 1250 4750 2034 4750  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-33-6"
+       d="M 2597 2516  Q 3050 2419 3304 2112  Q 3559 1806 3559 1356  Q 3559 666 3084 287  Q 2609 -91 1734 -91  Q 1441 -91 1130 -33  Q 819 25 488 141  L 488 750  Q 750 597 1062 519  Q 1375 441 1716 441  Q 2309 441 2620 675  Q 2931 909 2931 1356  Q 2931 1769 2642 2001  Q 2353 2234 1838 2234  L 1294 2234  L 1294 2753  L 1863 2753  Q 2328 2753 2575 2939  Q 2822 3125 2822 3475  Q 2822 3834 2567 4026  Q 2313 4219 1838 4219  Q 1578 4219 1281 4162  Q 984 4106 628 3988  L 628 4550  Q 988 4650 1302 4700  Q 1616 4750 1894 4750  Q 2613 4750 3031 4423  Q 3450 4097 3450 3541  Q 3450 3153 3228 2886  Q 3006 2619 2597 2516  z "
+       transform="scale(0.015625)" />
+    <path
+       id="m201607c17f"
+       d="M 0 0  L -2 0  "
+       style="stroke: #000000; stroke-width: 0.6" />
+    <path
+       id="DejaVuSans-74-5"
+       d="M 1172 4494  L 1172 3500  L 2356 3500  L 2356 3053  L 1172 3053  L 1172 1153  Q 1172 725 1289 603  Q 1406 481 1766 481  L 2356 481  L 2356 0  L 1766 0  Q 1100 0 847 248  Q 594 497 594 1153  L 594 3053  L 172 3053  L 172 3500  L 594 3500  L 594 4494  L 1172 4494  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-69-0"
+       d="M 603 3500  L 1178 3500  L 1178 0  L 603 0  L 603 3500  z M 603 4863  L 1178 4863  L 1178 4134  L 603 4134  L 603 4863  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-6d-8"
+       d="M 3328 2828  Q 3544 3216 3844 3400  Q 4144 3584 4550 3584  Q 5097 3584 5394 3201  Q 5691 2819 5691 2113  L 5691 0  L 5113 0  L 5113 2094  Q 5113 2597 4934 2840  Q 4756 3084 4391 3084  Q 3944 3084 3684 2787  Q 3425 2491 3425 1978  L 3425 0  L 2847 0  L 2847 2094  Q 2847 2600 2669 2842  Q 2491 3084 2119 3084  Q 1678 3084 1418 2786  Q 1159 2488 1159 1978  L 1159 0  L 581 0  L 581 3500  L 1159 3500  L 1159 2956  Q 1356 3278 1631 3431  Q 1906 3584 2284 3584  Q 2666 3584 2933 3390  Q 3200 3197 3328 2828  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-65-4"
+       d="M 3597 1894  L 3597 1613  L 953 1613  Q 991 1019 1311 708  Q 1631 397 2203 397  Q 2534 397 2845 478  Q 3156 559 3463 722  L 3463 178  Q 3153 47 2828 -22  Q 2503 -91 2169 -91  Q 1331 -91 842 396  Q 353 884 353 1716  Q 353 2575 817 3079  Q 1281 3584 2069 3584  Q 2775 3584 3186 3129  Q 3597 2675 3597 1894  z M 3022 2063  Q 3016 2534 2758 2815  Q 2500 3097 2075 3097  Q 1594 3097 1305 2825  Q 1016 2553 972 2059  L 3022 2063  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-20-4"
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-61-6"
+       d="M 2194 1759  Q 1497 1759 1228 1600  Q 959 1441 959 1056  Q 959 750 1161 570  Q 1363 391 1709 391  Q 2188 391 2477 730  Q 2766 1069 2766 1631  L 2766 1759  L 2194 1759  z M 3341 1997  L 3341 0  L 2766 0  L 2766 531  Q 2569 213 2275 61  Q 1981 -91 1556 -91  Q 1019 -91 701 211  Q 384 513 384 1019  Q 384 1609 779 1909  Q 1175 2209 1959 2209  L 2766 2209  L 2766 2266  Q 2766 2663 2505 2880  Q 2244 3097 1772 3097  Q 1472 3097 1187 3025  Q 903 2953 641 2809  L 641 3341  Q 956 3463 1253 3523  Q 1550 3584 1831 3584  Q 2591 3584 2966 3190  Q 3341 2797 3341 1997  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-67-5"
+       d="M 2906 1791  Q 2906 2416 2648 2759  Q 2391 3103 1925 3103  Q 1463 3103 1205 2759  Q 947 2416 947 1791  Q 947 1169 1205 825  Q 1463 481 1925 481  Q 2391 481 2648 825  Q 2906 1169 2906 1791  z M 3481 434  Q 3481 -459 3084 -895  Q 2688 -1331 1869 -1331  Q 1566 -1331 1297 -1286  Q 1028 -1241 775 -1147  L 775 -588  Q 1028 -725 1275 -790  Q 1522 -856 1778 -856  Q 2344 -856 2625 -561  Q 2906 -266 2906 331  L 2906 616  Q 2728 306 2450 153  Q 2172 0 1784 0  Q 1141 0 747 490  Q 353 981 353 1791  Q 353 2603 747 3093  Q 1141 3584 1784 3584  Q 2172 3584 2450 3431  Q 2728 3278 2906 2969  L 2906 3500  L 3481 3500  L 3481 434  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-28-2"
+       d="M 1984 4856  Q 1566 4138 1362 3434  Q 1159 2731 1159 2009  Q 1159 1288 1364 580  Q 1569 -128 1984 -844  L 1484 -844  Q 1016 -109 783 600  Q 550 1309 550 2009  Q 550 2706 781 3412  Q 1013 4119 1484 4856  L 1984 4856  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-79-0"
+       d="M 2059 -325  Q 1816 -950 1584 -1140  Q 1353 -1331 966 -1331  L 506 -1331  L 506 -850  L 844 -850  Q 1081 -850 1212 -737  Q 1344 -625 1503 -206  L 1606 56  L 191 3500  L 800 3500  L 1894 763  L 2988 3500  L 3597 3500  L 2059 -325  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-72-9"
+       d="M 2631 2963  Q 2534 3019 2420 3045  Q 2306 3072 2169 3072  Q 1681 3072 1420 2755  Q 1159 2438 1159 1844  L 1159 0  L 581 0  L 581 3500  L 1159 3500  L 1159 2956  Q 1341 3275 1631 3429  Q 1922 3584 2338 3584  Q 2397 3584 2469 3576  Q 2541 3569 2628 3553  L 2631 2963  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-73-9"
+       d="M 2834 3397  L 2834 2853  Q 2591 2978 2328 3040  Q 2066 3103 1784 3103  Q 1356 3103 1142 2972  Q 928 2841 928 2578  Q 928 2378 1081 2264  Q 1234 2150 1697 2047  L 1894 2003  Q 2506 1872 2764 1633  Q 3022 1394 3022 966  Q 3022 478 2636 193  Q 2250 -91 1575 -91  Q 1294 -91 989 -36  Q 684 19 347 128  L 347 722  Q 666 556 975 473  Q 1284 391 1588 391  Q 1994 391 2212 530  Q 2431 669 2431 922  Q 2431 1156 2273 1281  Q 2116 1406 1581 1522  L 1381 1569  Q 847 1681 609 1914  Q 372 2147 372 2553  Q 372 3047 722 3315  Q 1072 3584 1716 3584  Q 2034 3584 2315 3537  Q 2597 3491 2834 3397  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-29-0"
+       d="M 513 4856  L 1013 4856  Q 1481 4119 1714 3412  Q 1947 2706 1947 2009  Q 1947 1309 1714 600  Q 1481 -109 1013 -844  L 513 -844  Q 928 -128 1133 580  Q 1338 1288 1338 2009  Q 1338 2731 1133 3434  Q 928 4138 513 4856  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-6e-0"
+       d="M 3513 2113  L 3513 0  L 2938 0  L 2938 2094  Q 2938 2591 2744 2837  Q 2550 3084 2163 3084  Q 1697 3084 1428 2787  Q 1159 2491 1159 1978  L 1159 0  L 581 0  L 581 3500  L 1159 3500  L 1159 2956  Q 1366 3272 1645 3428  Q 1925 3584 2291 3584  Q 2894 3584 3203 3211  Q 3513 2838 3513 2113  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-63-9"
+       d="M 3122 3366  L 3122 2828  Q 2878 2963 2633 3030  Q 2388 3097 2138 3097  Q 1578 3097 1268 2742  Q 959 2388 959 1747  Q 959 1106 1268 751  Q 1578 397 2138 397  Q 2388 397 2633 464  Q 2878 531 3122 666  L 3122 134  Q 2881 22 2623 -34  Q 2366 -91 2075 -91  Q 1284 -91 818 406  Q 353 903 353 1747  Q 353 2603 823 3093  Q 1294 3584 2113 3584  Q 2378 3584 2631 3529  Q 2884 3475 3122 3366  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-6c-2"
+       d="M 603 4863  L 1178 4863  L 1178 0  L 603 0  L 603 4863  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-68-6"
+       d="M 3513 2113  L 3513 0  L 2938 0  L 2938 2094  Q 2938 2591 2744 2837  Q 2550 3084 2163 3084  Q 1697 3084 1428 2787  Q 1159 2491 1159 1978  L 1159 0  L 581 0  L 581 4863  L 1159 4863  L 1159 2956  Q 1366 3272 1645 3428  Q 1925 3584 2291 3584  Q 2894 3584 3203 3211  Q 3513 2838 3513 2113  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-4e-7"
+       d="M 628 4666  L 1478 4666  L 3547 763  L 3547 4666  L 4159 4666  L 4159 0  L 3309 0  L 1241 3903  L 1241 0  L 628 0  L 628 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-4d-7"
+       d="M 628 4666  L 1569 4666  L 2759 1491  L 3956 4666  L 4897 4666  L 4897 0  L 4281 0  L 4281 4097  L 3078 897  L 2444 897  L 1241 4097  L 1241 0  L 628 0  L 628 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-48-6"
+       d="M 628 4666  L 1259 4666  L 1259 2753  L 3553 2753  L 3553 4666  L 4184 4666  L 4184 0  L 3553 0  L 3553 2222  L 1259 2222  L 1259 0  L 628 0  L 628 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-4f-8"
+       d="M 2522 4238  Q 1834 4238 1429 3725  Q 1025 3213 1025 2328  Q 1025 1447 1429 934  Q 1834 422 2522 422  Q 3209 422 3611 934  Q 4013 1447 4013 2328  Q 4013 3213 3611 3725  Q 3209 4238 2522 4238  z M 2522 4750  Q 3503 4750 4090 4092  Q 4678 3434 4678 2328  Q 4678 1225 4090 567  Q 3503 -91 2522 -91  Q 1538 -91 948 565  Q 359 1222 359 2328  Q 359 3434 948 4092  Q 1538 4750 2522 4750  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-45-3"
+       d="M 628 4666  L 3578 4666  L 3578 4134  L 1259 4134  L 1259 2753  L 3481 2753  L 3481 2222  L 1259 2222  L 1259 531  L 3634 531  L 3634 0  L 628 0  L 628 4666  z "
+       transform="scale(0.015625)" />
+    <path
+       id="DejaVuSans-75-9"
+       d="M 544 1381  L 544 3500  L 1119 3500  L 1119 1403  Q 1119 906 1312 657  Q 1506 409 1894 409  Q 2359 409 2629 706  Q 2900 1003 2900 1516  L 2900 3500  L 3475 3500  L 3475 0  L 2900 0  L 2900 538  Q 2691 219 2414 64  Q 2138 -91 1772 -91  Q 1169 -91 856 284  Q 544 659 544 1381  z M 1991 3584  L 1991 3584  z "
+       transform="scale(0.015625)" />
+    <clipPath
+       id="pba0faa9d32">
+      <rect
+         x="49.078125"
+         y="10.8"
+         width="554.281875"
+         height="310.821875"
+         id="rect74359" />
+    </clipPath>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path85795-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path85795-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-8-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path85795-2-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path85795-26" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient9"
+       x1="43.685714"
+       y1="178.58975"
+       x2="50.183159"
+       y2="178.58975"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="37.329235"
+       y="191.67751"
+       id="text46932"><tspan
+         sodipodi:role="line"
+         id="tspan46930"
+         style="stroke-width:0.264583"
+         x="37.329235"
+         y="191.67751" /></text>
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.194893"
+       id="rect78626"
+       width="174.45638"
+       height="187.07753"
+       x="1.1084895"
+       y="92.170753"
+       inkscape:export-filename="../Desktop/tree_seq.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="191.17673"
+       y="218.70816"
+       id="text87893-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan87891-9"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="191.17673"
+         y="218.70816" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 131.78129,105.37104 V 126.1625"
+       id="path35197"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#02040e;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.875"
+       d="m 40.139071,105.17016 v 20.79146"
+       id="path35197-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.297957px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 149.64789,126.29644 -30.91175,0.117"
+       id="path35197-9-6-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-3"
+       cx="131.86806"
+       cy="126.3738"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 118.47878,126.2327 v 20.79138"
+       id="path35197-9-9-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.229683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 149.75327,126.22429 v 15.66818"
+       id="path35197-9-0-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.187594px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.27127,150.78423 -10.885718,0.13171"
+       id="path35197-9-6-9-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.283285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.385602,150.92629 v 23.83446"
+       id="path35197-9-0-8-98"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#d691d6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-8"
+       width="1.8740351"
+       height="1.7036682"
+       x="97.427536"
+       y="174.31891"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.286043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.24205,150.78853 v 24.30079"
+       id="path35197-9-0-8-4-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#d691d6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-8-6"
+       width="1.8740351"
+       height="1.7036682"
+       x="108.27032"
+       y="174.31891"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.9309,147.28434 -20.79093,0.13718"
+       id="path35197-9-6-0-8"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0996111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 105.11754,147.31329 v 2.947"
+       id="path35197-9-0-8-5-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4"
+       cx="118.34844"
+       cy="147.1917"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.236069px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 125.9309,147.28434 v 16.55142"
+       id="path35197-9-0-8-4-1-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#d691d6;fill-opacity:1;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-3-9"
+       cx="105.147"
+       cy="150.79207"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.534536,125.87506 -20.790928,0.13718"
+       id="path35197-9-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#1f40e1;stroke-width:0.458816;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.875"
+       d="m 39.716196,125.89862 -10.277203,0.0966"
+       id="path35197-9-6-9-3-2-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#0000ff;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.386551;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.193274, 0.193274;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-3-8"
+       cx="40.343079"
+       cy="125.70763"
+       rx="2.2728834"
+       ry="2.0466311"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#1f40e1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.875"
+       d="m 29.644,126.01224 v 20.79138"
+       id="path35197-9-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.534536,125.87506 v 20.79138"
+       id="path35197-9-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.196209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57.32528,146.88501 -11.385623,0.13776"
+       id="path35197-9-6-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.146184px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 45.939657,147.02277 v 6.34684"
+       id="path35197-9-0-8"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.146184px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 57.32528,146.88501 v 6.34684"
+       id="path35197-9-0-8-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 37.317998,146.99313 16.52707,147.13031"
+       id="path35197-9-6-0-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#1f40e1;stroke-width:0.413194;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.875"
+       d="m 37.560653,147.02816 -8.246208,0.0976"
+       id="path35197-9-6-9-3-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#0000ff;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-3"
+       cx="29.610977"
+       cy="147.21808"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#1f40e1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.875"
+       d="m 37.317998,146.99313 v 15.31398"
+       id="path35197-9-0-8-4-1-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.201318px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.52707,147.13031 v 12.03711"
+       id="path35197-9-0-8-4-1-0-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.196209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 21.904606,158.87813 -11.385623,0.13776"
+       id="path35197-9-6-9-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="11.779485"
+       y="158.1539"
+       id="text42318-5"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan42316-1"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="11.779485"
+         y="158.1539">Nea2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.128264px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 10.518983,159.01589 v 4.88613"
+       id="path35197-9-0-8-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.126115px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 21.760564,158.95347 v 4.72383"
+       id="path35197-9-0-8-4-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#91df8f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-2"
+       width="1.8740351"
+       height="1.7036682"
+       x="44.895161"
+       y="153.36922"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#91e08f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-2-0"
+       width="1.8740351"
+       height="1.7036682"
+       x="56.319569"
+       y="153.28703"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#91e08f;fill-opacity:1;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-8"
+       cx="50.617977"
+       cy="146.79268"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#ff9955;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-2"
+       cx="16.317978"
+       cy="158.68593"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#ff9955;fill-opacity:0.984314;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-1"
+       width="1.8740351"
+       height="1.7036682"
+       x="9.6610003"
+       y="163.77493"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#ff9955;fill-opacity:0.984314;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-1-2"
+       width="1.8740351"
+       height="1.7036682"
+       x="20.683538"
+       y="163.71251"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#1f40e1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.875"
+       d="m 42.767268,162.19128 -11.75008,0.10022"
+       id="path35197-9-6-9-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#0000ff;fill-opacity:1;stroke:#1f40e1;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0.875;paint-order:stroke markers fill"
+       id="path36287-7-4"
+       cx="37.219978"
+       cy="162.41966"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#1f40e1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.875"
+       d="m 31.253725,162.31021 v 12.71038"
+       id="path35197-9-0-8-96"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#1f40e1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.875"
+       d="m 42.566649,162.17245 v 6.34684"
+       id="path35197-9-0-8-4-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#916f6f;fill-opacity:0.8;fill-rule:evenodd;stroke:#1a1624;stroke-width:0.205962;stroke-opacity:0"
+       id="rect36311-7-7-3"
+       width="1.8740351"
+       height="1.7036682"
+       x="30.122688"
+       y="175.00658"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#dfb7b7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-3-4"
+       width="1.8740351"
+       height="1.7036682"
+       x="36.655251"
+       y="175.00777"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#dfb7b7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-3-4-4"
+       width="1.8740351"
+       height="1.7036682"
+       x="48.283512"
+       y="174.87001"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:#1e1ee1;stroke:#1511d8;stroke-width:0.501455;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="m 49.498206,168.52601 -12.085412,0.13284"
+       id="path35197-9-6-9-2-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#1f40e1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.875"
+       d="m 37.713586,168.66131 v 6.34684"
+       id="path35197-9-0-8-98-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:#0000ff;fill-opacity:1;stroke:#1f40e1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.875"
+       d="m 49.249,168.52355 v 6.34684"
+       id="path35197-9-0-8-4-2-5"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#0000ff;fill-opacity:1;stroke:#1f40e1;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0.875;paint-order:stroke markers fill"
+       id="path36287-7-6"
+       cx="42.57053"
+       cy="168.79807"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="34.490585"
+       y="124.84657"
+       id="text39504-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="34.490585"
+         y="124.84657">NeaA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="55.947479"
+       y="145.90358"
+       id="text39504-97"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-0"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="55.947479"
+         y="145.90358">Nea1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="25.292727"
+       y="145.90358"
+       id="text42318-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan42316-8"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="25.292727"
+         y="145.90358">Nea2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="31.136486"
+       y="161.44011"
+       id="text39504-9-6-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-6-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="31.136486"
+         y="161.44011">Eurasia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="11.010245"
+       y="168.94356"
+       id="text42318-5-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan42316-1-5"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="11.010245"
+         y="168.94356">Nea2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="20.910599"
+       y="168.94356"
+       id="text42318-5-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan42316-1-0"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="20.910599"
+         y="168.94356">Nea2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="38.552811"
+       y="180.00107"
+       id="text39504-9-9-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="38.552811"
+         y="180.00107">Pop2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="49.37796"
+       y="179.91116"
+       id="text39504-9-9-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="49.37796"
+         y="179.91116">Pop2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:round"
+       x="30.862255"
+       y="180.00107"
+       id="text39504-9-9-0-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-4-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="30.862255"
+         y="180.00107">Pop1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:#01030b;stroke-width:0.264583;stroke-opacity:0.875"
+       x="46.872425"
+       y="167.6662"
+       id="text39504-9-9-3-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-2-5"
+         style="font-size:2.82222px;fill:#000000;fill-opacity:1;stroke:#01030b;stroke-width:0.264583;stroke-opacity:0.875"
+         x="46.872425"
+         y="167.6662">Pop2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="46.293945"
+       y="158.43625"
+       id="text39504-93"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-9"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="46.293945"
+         y="158.43625">Nea1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="57.690529"
+       y="158.43625"
+       id="text39504-98"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-1"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="57.690529"
+         y="158.43625">Nea1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="129.15933"
+       y="179.91116"
+       id="text39504-9-9-0-0-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-4-3-6"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="129.15933"
+         y="179.91116">Pop1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="127.16159"
+       y="125.15548"
+       id="text45440-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="127.16159"
+         y="125.15548">AMH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="114.00837"
+       y="146.21208"
+       id="text45440-2-5"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-1"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="114.00837"
+         y="146.21208">AMH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="101.17175"
+       y="149.90273"
+       id="text45440-2-6-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-1"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="101.17175"
+         y="149.90273">AFR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="98.130241"
+       y="179.91116"
+       id="text45440-2-6-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-7"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="98.130241"
+         y="179.91116">AFR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="107.45926"
+       y="179.91116"
+       id="text45440-2-6-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-8"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="107.45926"
+         y="179.91116">AFR</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.196209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 129.57482,163.73854 118.1892,163.8763"
+       id="path35197-9-6-9-26"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.146184px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 118.1892,163.8763 v 6.34684"
+       id="path35197-9-0-8-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.191279px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.57482,163.73854 v 10.86663"
+       id="path35197-9-0-8-4-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="120.17352"
+       y="162.35736"
+       id="text45440-2-5-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-1-0"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="120.17352"
+         y="162.35736">AMH</tspan></text>
+    <rect
+       style="fill:#916f6f;fill-opacity:0.8;fill-rule:evenodd;stroke:#1a1624;stroke-width:0.205962;stroke-opacity:0"
+       id="rect36311-7-7-3-6"
+       width="1.8740351"
+       height="1.7036682"
+       x="128.52023"
+       y="174.48189"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.114244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.86529,170.27744 -6.62936,0.0802"
+       id="path35197-9-6-9-26-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#d691d6;fill-opacity:1;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-5-5"
+       cx="118.06968"
+       cy="170.1902"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.121648px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.3146,170.51088 v 4.39515"
+       id="path35197-9-0-8-2-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.124979px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 120.81841,170.23829 v 4.63911"
+       id="path35197-9-0-8-2-4-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#d691d6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-8-4"
+       width="1.8740351"
+       height="1.7036682"
+       x="113.49909"
+       y="174.31891"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#d691d6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-8-6-6"
+       width="1.8740351"
+       height="1.7036682"
+       x="119.76038"
+       y="174.31891"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="114.51077"
+       y="179.91116"
+       id="text45440-2-6-2-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-7-4"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="114.51077"
+         y="179.91116">AFR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="121.34354"
+       y="179.91116"
+       id="text45440-2-6-2-4-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-7-4-8"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="121.34354"
+         y="179.91116">AFR</tspan></text>
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-4"
+       cx="149.73647"
+       cy="141.68279"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.206123px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 137.80957,141.57929 v 12.61865"
+       id="path35197-9-0-1-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-4-0"
+       cx="137.72388"
+       cy="154.45673"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="143.84358"
+       y="140.53796"
+       id="text45440-2-5-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-1-6"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="143.84358"
+         y="140.53796">AMH</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.293574px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 163.76202,141.57087 -25.66691,0.1368"
+       id="path35197-9-6-0-8-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.229683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 163.89342,141.47829 v 15.66818"
+       id="path35197-9-0-1-7-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-4-8"
+       cx="163.23793"
+       cy="157.78397"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.196209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 146.63451,154.79963 -11.38562,0.13776"
+       id="path35197-9-6-9-26-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.261133px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.24889,154.93739 v 20.25267"
+       id="path35197-9-0-8-2-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.191279px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 146.63451,154.79963 v 10.86663"
+       id="path35197-9-0-8-4-4-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-4-8-1"
+       cx="146.68457"
+       cy="166.20064"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-5"
+       cx="126.06173"
+       cy="163.70403"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#d691d6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-8-6-6-8"
+       width="1.8740351"
+       height="1.7036682"
+       x="134.15596"
+       y="174.31891"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.73909"
+       y="179.91116"
+       id="text45440-2-6-2-4-6-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-7-4-8-1"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="135.73909"
+         y="179.91116">AFR</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.114244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 149.7791,166.29119 -6.62936,0.0802"
+       id="path35197-9-6-9-26-1-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.172154px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 143.16742,166.42429 v 8.80233"
+       id="path35197-9-0-8-2-4-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.167155px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 149.73222,166.25204 v 8.29854"
+       id="path35197-9-0-8-2-4-0-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#916f6f;fill-opacity:0.8;fill-rule:evenodd;stroke:#1a1624;stroke-width:0.205962;stroke-opacity:0"
+       id="rect36311-7-7-3-6-9"
+       width="1.8740351"
+       height="1.7036682"
+       x="148.80234"
+       y="174.41261"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#dfb7b7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-3-4-3"
+       width="1.8740351"
+       height="1.7036682"
+       x="142.25142"
+       y="174.31891"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="143.90024"
+       y="179.72603"
+       id="text39504-9-9-8"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-49"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="143.90024"
+         y="179.72603">Pop2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="151.20183"
+       y="179.84802"
+       id="text39504-9-9-0-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-4-39"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="151.20183"
+         y="179.84802">Pop1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.114244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 166.44631,157.73593 -6.62935,0.0802"
+       id="path35197-9-6-9-26-1-2-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.237345px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.83463,157.86903 v 16.7311"
+       id="path35197-9-0-8-2-4-1-8"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.238958px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 166.39944,157.69678 v 16.95919"
+       id="path35197-9-0-8-2-4-0-9-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#916f6f;fill-opacity:0.8;fill-rule:evenodd;stroke:#1a1624;stroke-width:0.205962;stroke-opacity:0"
+       id="rect36311-7-7-3-6-9-3"
+       width="1.8740351"
+       height="1.7036682"
+       x="165.22507"
+       y="174.46362"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#dfb7b7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-3-4-3-0"
+       width="1.8740351"
+       height="1.7036682"
+       x="158.67415"
+       y="174.36992"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="159.79381"
+       y="179.77704"
+       id="text39504-9-9-8-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-49-3"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="159.79381"
+         y="179.77704">Pop2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="167.62456"
+       y="179.89903"
+       id="text39504-9-9-0-3-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-4-39-5"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="167.62456"
+         y="179.89903">Pop1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="157.8801"
+       y="156.43341"
+       id="text39504-9-6-9-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-6-7-9"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="157.8801"
+         y="156.43341">Eurasia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="140.70215"
+       y="165.28267"
+       id="text39504-9-6-9-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-6-7-4"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="140.70215"
+         y="165.28267">Eurasia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="141.76128"
+       y="153.51192"
+       id="text45440-2-5-9-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-1-6-43"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="141.76128"
+         y="153.51192">AMH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="114.27826"
+       y="168.92888"
+       id="text45440-2-6-2-4-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-7-4-4"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="114.27826"
+         y="168.92888">AFR</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#000000;stroke-width:0.192814;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 40.480373,105.50677 36.516165,0.0361 54.847622,0.0543"
+       id="path35193-8"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:6.43651px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.301711"
+       x="15.084253"
+       y="100.17947"
+       id="text76076"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan76074"
+         style="stroke-width:0.301711"
+         x="15.866623"
+         y="100.17947"><tspan
+           style="font-size:5.63196px;stroke-width:0.301711"
+           id="tspan83836"> A.  </tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="13.263247"
+       y="194.14806"
+       id="text76424"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan76422"
+         style="stroke-width:0.264583"
+         x="13.263247"
+         y="194.14806">B.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="191.17673"
+       y="116.41463"
+       id="text87893"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan87891"
+         style="font-size:4.23333px;stroke-width:0.264583"
+         x="191.17673"
+         y="116.41463" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 127.92586,200.13171 v 20.79138"
+       id="path35197-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 36.283605,199.93083 v 20.79138"
+       id="path35197-9-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.406603px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.96498,221.10473 -40.48724,0.16636"
+       id="path35197-9-6-1-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-3-1"
+       cx="128.0125"
+       cy="221.13493"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100.33576,220.99329 v 20.79138"
+       id="path35197-9-9-9-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.229683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 141.13531,220.98488 v 15.66818"
+       id="path35197-9-0-1-5"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.17329px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 92.658482,245.54447 -9.240289,0.13241"
+       id="path35197-9-6-9-2-8"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.283285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 83.417644,245.68688 v 23.83446"
+       id="path35197-9-0-8-98-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#d691d6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-8-9"
+       width="1.8740351"
+       height="1.7036682"
+       x="82.459557"
+       y="269.07968"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.286043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 92.686582,245.54912 v 24.30079"
+       id="path35197-9-0-8-4-2-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#d691d6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-8-6-7"
+       width="1.8740351"
+       height="1.7036682"
+       x="91.714874"
+       y="269.07968"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.257802px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107.7717,242.04486 -19.722026,0.13732"
+       id="path35197-9-6-0-8-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.0996111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.032913,242.07388 v 2.947"
+       id="path35197-9-0-8-5-1-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-9"
+       cx="100.20541"
+       cy="241.9529"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.195453px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107.78788,242.04493 v 11.34598"
+       id="path35197-9-0-8-4-1-1-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#d691d6;fill-opacity:1;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-3-9-1"
+       cx="88.062325"
+       cy="245.55316"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-3-8-4"
+       cx="36.25481"
+       cy="220.44347"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.196209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 53.561804,231.99419 42.17618,232.13195"
+       id="path35197-9-6-9-20"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.127128px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.163845,232.13195 v 4.8"
+       id="path35197-9-0-8-23"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.127128px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 53.54399,231.99419 v 4.8"
+       id="path35197-9-0-8-4-8"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 46.78325,220.6107 -20.790928,0.13718"
+       id="path35197-9-6-0-3-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.186064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 46.78325,220.6107 v 10.28205"
+       id="path35197-9-0-8-4-1-0-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.201318px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.992322,220.74788 v 12.03711"
+       id="path35197-9-0-8-4-1-0-4-5"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.196209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 31.369858,232.4957 -11.385623,0.13776"
+       id="path35197-9-6-9-6-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="21.244734"
+       y="231.77229"
+       id="text42318-5-74"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan42316-1-7"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="21.244734"
+         y="231.77229">Nea2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.128264px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19.984235,232.63346 v 4.88613"
+       id="path35197-9-0-8-9-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.126115px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 31.225816,232.57104 v 4.72383"
+       id="path35197-9-0-8-4-6-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#91df8f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-2-6"
+       width="1.8740351"
+       height="1.7036682"
+       x="41.131683"
+       y="236.89177"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#91e08f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-2-0-7"
+       width="1.8740351"
+       height="1.7036682"
+       x="52.556091"
+       y="236.80959"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#91e08f;fill-opacity:1;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-8-1"
+       cx="46.8545"
+       cy="231.90274"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#ff9955;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-2-7"
+       cx="25.783234"
+       cy="232.30432"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#ff9955;fill-opacity:0.984314;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-1-5"
+       width="1.8740351"
+       height="1.7036682"
+       x="19.126245"
+       y="237.39328"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#ff9955;fill-opacity:0.984314;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-1-2-2"
+       width="1.8740351"
+       height="1.7036682"
+       x="30.148792"
+       y="237.33084"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="30.63512"
+       y="219.60773"
+       id="text39504-2-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-2-8"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="30.63512"
+         y="219.60773">NeaA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="52.184002"
+       y="231.01361"
+       id="text39504-97-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-0-0"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="52.184002"
+         y="231.01361">Nea1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="20.475492"
+       y="242.56174"
+       id="text42318-5-7-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan42316-1-5-6"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="20.475492"
+         y="242.56174">Nea2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="30.375854"
+       y="242.56174"
+       id="text42318-5-0-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan42316-1-0-2"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="30.375854"
+         y="242.56174">Nea2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="43.059635"
+       y="242.48779"
+       id="text39504-93-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-9-9"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="43.059635"
+         y="242.48779">Nea1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="52.868717"
+       y="242.48779"
+       id="text39504-98-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-1-1"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="52.868717"
+         y="242.48779">Nea1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="111.01634"
+       y="274.65982"
+       id="text39504-9-9-0-0-1-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-4-3-6-4"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="111.01634"
+         y="274.65982">Pop1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="117.83276"
+       y="274.65982"
+       id="text39504-9-9-0-0-1-2-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-4-3-6-4-1"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="117.83276"
+         y="274.65982">Pop1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="123.30602"
+       y="219.91656"
+       id="text45440-2-58"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-7"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="123.30602"
+         y="219.91656">AMH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="95.865349"
+       y="240.44415"
+       id="text45440-2-5-8"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-1-4"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="95.865349"
+         y="240.44415">AMH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="84.087143"
+       y="244.66385"
+       id="text45440-2-6-6-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-1-1"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="84.087143"
+         y="244.66385">AFR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="83.691467"
+       y="274.65982"
+       id="text45440-2-6-2-8"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-7-0"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="83.691467"
+         y="274.65982">AFR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="90.90374"
+       y="274.65982"
+       id="text45440-2-6-3-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-8-4"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="90.90374"
+         y="274.65982">AFR</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.20416px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.54032,254.26603 -12.3734,0.13724"
+       id="path35197-9-6-9-26-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.193775px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 102.15942,254.39006 v 11.152"
+       id="path35197-9-0-8-2-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.125428px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.55698,254.26577 v 4.67251"
+       id="path35197-9-0-8-4-4-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="103.618"
+       y="252.88495"
+       id="text45440-2-5-0-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-1-0-7"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="103.618"
+         y="252.88495">AMH</tspan></text>
+    <rect
+       style="fill:#916f6f;fill-opacity:0.8;fill-rule:evenodd;stroke:#1a1624;stroke-width:0.205962;stroke-opacity:0"
+       id="rect36311-7-7-3-6-8"
+       width="1.8740351"
+       height="1.7036682"
+       x="109.84805"
+       y="269.24268"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.114244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.83895,265.03803 -6.629348,0.0802"
+       id="path35197-9-6-9-26-1-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#d691d6;fill-opacity:1;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-5-8"
+       cx="102.29813"
+       cy="264.92917"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.121648px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.288272,265.17106 v 4.39515"
+       id="path35197-9-0-8-2-4-8"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.124979px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.79207,264.99888 v 4.63911"
+       id="path35197-9-0-8-2-4-0-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#d691d6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-8-4-7"
+       width="1.8740351"
+       height="1.7036682"
+       x="97.472717"
+       y="269.07968"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#d691d6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-8-6-6-9"
+       width="1.8740351"
+       height="1.7036682"
+       x="103.73402"
+       y="269.07968"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="97.955238"
+       y="274.65982"
+       id="text45440-2-6-2-4-5"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-7-4-3"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="97.955238"
+         y="274.65982">AFR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="104.25885"
+       y="274.65982"
+       id="text45440-2-6-2-4-6-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-7-4-8-4"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="104.25885"
+         y="274.65982">AFR</tspan></text>
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-4-4"
+       cx="141.11847"
+       cy="236.44408"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.206123px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.48331,236.33988 v 12.61865"
+       id="path35197-9-0-1-7-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-4-0-0"
+       cx="134.39748"
+       cy="249.2177"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="136.81306"
+       y="234.7701"
+       id="text45440-2-5-9-5"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-1-6-4"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="136.81306"
+         y="234.7701">AMH</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.279522px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 157.7894,236.33127 -23.20507,0.13718"
+       id="path35197-9-6-0-8-0-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.229683px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 157.92131,236.23888 v 15.66818"
+       id="path35197-9-0-1-7-7-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-4-8-10"
+       cx="157.79489"
+       cy="252.54485"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.196209px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 141.72074,249.56022 -11.38562,0.13776"
+       id="path35197-9-6-9-26-6-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.261133px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 130.33512,249.69798 v 20.25267"
+       id="path35197-9-0-8-2-1-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.191279px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 141.72074,249.56022 v 10.86663"
+       id="path35197-9-0-8-4-4-3-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-4-8-1-9"
+       cx="141.77069"
+       cy="260.96143"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-5-9"
+       cx="107.91874"
+       cy="254.2316"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#d691d6;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-8-6-6-8-8"
+       width="1.8740351"
+       height="1.7036682"
+       x="129.24208"
+       y="269.07968"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="131.35437"
+       y="274.65982"
+       id="text45440-2-6-2-4-6-2-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-7-4-8-1-2"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="131.35437"
+         y="274.65982">AFR</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.114244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 144.86533,261.05178 -6.62936,0.0802"
+       id="path35197-9-6-9-26-1-2-3"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.172154px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 138.25365,261.18488 v 8.80233"
+       id="path35197-9-0-8-2-4-1-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="152.07646"
+       y="250.67784"
+       id="text39504-9-6-9-6-5"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-6-7-4-9"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="152.07646"
+         y="250.67784">Eurasia</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.167155px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 144.81845,261.01263 v 8.29854"
+       id="path35197-9-0-8-2-4-0-9-07"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#916f6f;fill-opacity:0.8;fill-rule:evenodd;stroke:#1a1624;stroke-width:0.205962;stroke-opacity:0"
+       id="rect36311-7-7-3-6-9-7"
+       width="1.8740351"
+       height="1.7036682"
+       x="143.88846"
+       y="269.1734"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#dfb7b7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-3-4-3-4"
+       width="1.8740351"
+       height="1.7036682"
+       x="137.33754"
+       y="269.07968"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="138.98636"
+       y="274.65982"
+       id="text39504-9-9-8-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-49-6"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="138.98636"
+         y="274.65982">Pop2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="146.28795"
+       y="274.65982"
+       id="text39504-9-9-0-3-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-4-39-7"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="146.28795"
+         y="274.65982">Pop1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.216196px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 166.92003,252.54749 -12.54539,0.15177"
+       id="path35197-9-6-9-26-1-2-9-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.169659px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.38971,252.62962 v 8.549"
+       id="path35197-9-0-8-2-4-1-8-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.122814px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160.33051,260.9807 -8.3843,0.0733"
+       id="path35197-9-6-9-26-1-2-9-0-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="158.42879"
+       y="259.73843"
+       id="text39504-9-9-8-6-0-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-49-3-7-0"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="158.42879"
+         y="259.73843">Pop2</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.238958px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 166.77737,252.45737 v 16.95919"
+       id="path35197-9-0-8-2-4-0-9-0-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#916f6f;fill-opacity:0.8;fill-rule:evenodd;stroke:#1a1624;stroke-width:0.205962;stroke-opacity:0"
+       id="rect36311-7-7-3-6-9-3-9"
+       width="1.8740351"
+       height="1.7036682"
+       x="166.13194"
+       y="269.2244"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="154.35077"
+       y="274.65982"
+       id="text39504-9-9-8-6-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-49-3-7"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="154.35077"
+         y="274.65982">Pop2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="169.06059"
+       y="274.65982"
+       id="text39504-9-9-0-3-4-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-4-39-5-5"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="169.06059"
+         y="274.65982">Pop1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.172154px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160.40722,261.03006 v 8.80233"
+       id="path35197-9-0-8-2-4-1-7-0"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#dfb7b7;fill-opacity:1;fill-rule:evenodd;stroke:#110c1b;stroke-width:0.205962;stroke-opacity:0"
+       id="rect36311-7-7-3-4-3-4-7"
+       width="1.8740351"
+       height="1.7036682"
+       x="159.64508"
+       y="269.13452"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="161.6911"
+       y="274.65982"
+       id="text39504-9-9-8-6-0-9"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-49-3-7-5"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="161.6911"
+         y="274.65982">Pop2</tspan></text>
+    <ellipse
+       style="opacity:0.993;fill:#dfb7b7;fill-opacity:1;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-3-1-7"
+       cx="154.53366"
+       cy="261.06015"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.172154px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 152.03538,261.01366 v 8.80233"
+       id="path35197-9-0-8-2-4-1-7-0-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#dfb7b7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-3-4-3-0-1"
+       width="1.8740351"
+       height="1.7036682"
+       x="151.11447"
+       y="269.13071"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="129.90186"
+       y="248.07759"
+       id="text45440-2-5-9-5-5"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-1-6-4-3"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="129.90186"
+         y="248.07759">AMH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="135.80055"
+       y="260.02164"
+       id="text39504-9-6-9-6-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-6-7-4-5"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="135.80055"
+         y="260.02164">Eurasia</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="98.133781"
+       y="263.49432"
+       id="text45440-2-6-2-4-7"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan45438-7-19-7-4-48"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="98.133781"
+         y="263.49432">AFR</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.142185px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.31712,259.17888 -10.42228,0.079"
+       id="path35197-9-6-9-26-1-2-3-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-3-1-7-6"
+       cx="114.63739"
+       cy="259.22162"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="120.35838"
+       y="257.97473"
+       id="text39504-9-6-9-6-4-1"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-6-7-4-5-0"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="120.35838"
+         y="257.97473">Eurasia</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.138337px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.26761,259.19206 v 5.68378"
+       id="path35197-9-0-8-2-4-1-7-0-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.183079px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 110.87177,259.24006 v 9.955"
+       id="path35197-9-0-8-2-4-1-7-0-7-6"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.195868;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.0979333, 0.0979333;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-4-8-1-9-2"
+       cx="121.42506"
+       cy="265.39319"
+       rx="1.0770388"
+       ry="1.10892"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.116053px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 118.34565,265.23915 v 4"
+       id="path35197-9-0-8-2-4-1-7-8"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.119918px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 124.92583,265.16706 v 4.271"
+       id="path35197-9-0-8-2-4-0-9-07-2"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.114244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 124.97725,265.20506 -6.62936,0.0802"
+       id="path35197-9-6-9-26-1-2-3-4"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#916f6f;fill-opacity:0.8;fill-rule:evenodd;stroke:#1a1624;stroke-width:0.205962;stroke-opacity:0"
+       id="rect36311-7-7-3-6-9-7-9"
+       width="1.8740351"
+       height="1.7036682"
+       x="117.47346"
+       y="269.21185"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <rect
+       style="fill:#dfb7b7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.205962"
+       id="rect36311-7-7-3-4-3-4-9"
+       width="1.8740351"
+       height="1.7036682"
+       x="123.65357"
+       y="269.16495"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="124.52694"
+       y="274.65982"
+       id="text39504-9-9-8-4-5"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999"><tspan
+         sodipodi:role="line"
+         id="tspan39502-7-7-49-6-7"
+         style="font-size:2.82222px;stroke-width:0.264583"
+         x="124.52694"
+         y="274.65982">Pop2</tspan></text>
+    <path
+       style="fill:#0000ff;stroke:#000000;stroke-width:0.248037;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 36.100763,199.92541 36.642046,0.0596 55.036851,0.0895"
+       id="path35193-8-3"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/figures_paper/tree_seqB.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text94092"
+       style="font-size:21.3333px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:Helvetica;text-align:center;white-space:pre;shape-inside:url(#rect94094);display:inline" />
+    <ellipse
+       style="opacity:0.993;fill:#000000;fill-opacity:0.98538;stroke:#110c1b;stroke-width:0.567611;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:0.283803, 0.283803;stroke-opacity:0;paint-order:stroke markers fill"
+       id="path36287-7-4-0-4-3-3-7"
+       cx="80.757172"
+       cy="199.72412"
+       rx="3.2155137"
+       ry="3.1192868"
+       inkscape:export-filename="/Users/gsd818/Desktop/arc_sims/tree_seqB_2.png"
+       inkscape:export-xdpi="427.39999"
+       inkscape:export-ydpi="427.39999" />
+  </g>
+</svg>
